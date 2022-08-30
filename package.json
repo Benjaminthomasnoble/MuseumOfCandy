@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Benjaminthomasnoble/MuseumOfCandy.git"
+    "url": "git+https://github.com/Benjaminthomasnoble/MuseumOfMusic.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Benjaminthomasnoble/MuseumOfCandy/issues"
+    "url": "https://github.com/Benjaminthomasnoble/MuseumOfMusic/issues"
   },
-  "homepage": "https://github.com/Benjaminthomasnoble/MuseumOfCandy#readme"
+  "homepage": "https://github.com/Benjaminthomasnoble/MuseumOfMusic#readme"
 }
