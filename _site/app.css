@@ -57,12 +57,13 @@ body {
 }
 
 #heading-group h1 {
-    font-weight: 100;
+    font-weight: 500;
     font-size: 4rem;
+
 }
 
 .navbar.scrolled {
-    background: #d5d2ff;
+    background: #ffe282;
     transition: background 500ms;
 }
 
