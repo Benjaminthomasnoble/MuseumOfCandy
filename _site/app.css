@@ -6,7 +6,6 @@ body {
 
 }
 
-
 .blurb h2 {
     color: #312f3f;
     font-weight: 100;
@@ -23,6 +22,14 @@ body {
 .content {
     margin-top: 100px;
     margin-bottom: 100px;
+}
+
+.content-txt {
+    margin-top: 30px;
+}
+
+.content-title {
+    margin-bottom: 30px;
 }
 
 .section-img {
