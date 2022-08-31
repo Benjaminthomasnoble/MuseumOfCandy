@@ -1,3 +1,7 @@
+* {
+    scroll-behavior: smooth;
+}
+
 body {
     background: #FFEFBA;
     background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
@@ -35,7 +39,13 @@ body {
 .section-img {
     width: 650px;
     height: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(116, 116, 116);
+    transition: .30s;
+}
 
+.section-img:hover {
+    transform: translateY(-1.5%);
 }
 
 .content-row {
@@ -52,7 +62,7 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-    color: #b0a9ff;
+    color: #5562b7;
 }
 
 #mainNavbar .navbar-brand {
