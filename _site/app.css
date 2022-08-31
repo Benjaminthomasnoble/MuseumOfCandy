@@ -8,13 +8,13 @@ body {
 
 
 .blurb h2 {
-    color: #ea1c2c;
+    color: #312f3f;
     font-weight: 100;
     font-size: 2.5rem;
 }
 
 .blurb p {
-    color: #f498b8;
+    color: #5b5970;
     font-weight: 100;
     font-size: 1.25rem;
     line-height: 2rem;
@@ -28,6 +28,7 @@ body {
 .section-img {
     width: 650px;
     height: auto;
+
 }
 
 .content-row {
@@ -44,15 +45,15 @@ body {
 }
 
 #mainNavbar .nav-link:hover {
-    color: #ea1c2c;
+    color: #b0a9ff;
 }
 
 #mainNavbar .navbar-brand {
-    color: #ea1c2c;
+    color: #312f3f;
 }
 
 #heading-group span {
-    color: red;
+    color: #786cf5;
 }
 
 #heading-group h1 {
@@ -61,7 +62,7 @@ body {
 }
 
 .navbar.scrolled {
-    background: rgb(222, 192, 222);
+    background: #d5d2ff;
     transition: background 500ms;
 }
 
